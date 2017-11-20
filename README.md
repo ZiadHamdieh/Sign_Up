@@ -7,7 +7,7 @@ A simple web app that uses NodeJS and SQL to maintain a database of emails for a
 ## Screenshots
 
 ![alt text](app_screenshots/Screenshot1.jpg?raw=true)
-User is greeted with landing page that displays number of emails in the database (currently 515).
+User is greeted with landing page that displays a number of randomly-generated emails in the database (currently 515).
 
 ![alt text](app_screenshots/Screenshot2.jpg?raw=true)
 User enters their email and presses the "Join!" button.
