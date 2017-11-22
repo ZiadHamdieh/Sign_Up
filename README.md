@@ -1,6 +1,6 @@
 # SIGN UP!
 
-A simple web app that uses NodeJS and SQL to maintain a database of emails for a (fictional) startup's mailing list.
+A simple web app that uses NodeJS and SQL to maintain a database of emails for a (fictional) startup's mailing list. All the emails in the database (aside from the ones entered by the user) are generated randomly using the faker JS library.
 
 
 
